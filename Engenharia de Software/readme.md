@@ -8,3 +8,10 @@ If you accept this distinction, it also becomes clear that we might need to deli
 The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
 
 Titus Winters, Software Engineering at Google
+
+
+"Engenharia de Software é a área da tecnologia em que é estudado todos os processos da construção de um software, desde o projeto de elaboração até a sua manutenção. 
+Depois de todo o processo de construção e constante melhoria do software, ele poderá e deve sofrer alterações de erros e manutenção para que o sistema não se torne obsoleto."
+
+
+# Ciclo de Vida de Software
