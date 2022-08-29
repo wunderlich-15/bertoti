@@ -15,3 +15,17 @@ Depois de todo o processo de construção e constante melhoria do software, ele 
 
 
 # Ciclo de Vida de Software
+
+Exemplo utilizado: Sorveteria
+
+Requisitos Funcionais
+-Funcionário pode adcionar, excluir autalizar e mostrar os sabores de sorvetes existentes;
+-Cardapio pode ser visto tanto pelo Usuário quanto para o Funcionário;
+-Cliente pode criar uma conta e logar-se pelo aplicativo;
+-Planilha de pedidos para o Funcionário.
+
+Requisitos Não Funcionais:
+- Velocidade nas resposta do sistema
+- portabilidade para diversos dispositivos
+- Interface agradavel e simples
+
