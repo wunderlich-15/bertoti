@@ -29,3 +29,6 @@ Requisitos Não Funcionais:
 - portabilidade para diversos dispositivos
 - Interface agradavel e simples
 
+Diagrama de caso de uso:
+
+![Screenshot](Sorveteria.png)</br>
