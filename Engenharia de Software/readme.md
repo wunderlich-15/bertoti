@@ -1,3 +1,4 @@
+# Comente
 "We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
 On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
 In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce 
@@ -25,7 +26,7 @@ Requisitos Funcionais
 - Planilha de pedidos para o Funcionário.
 
 Requisitos Não Funcionais:
-- Velocidade nas resposta do sistema
+- Velocidade nas respostas do sistema
 - portabilidade para diversos dispositivos
 - Interface agradavel e simples
 
