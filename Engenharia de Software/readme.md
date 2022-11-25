@@ -17,19 +17,17 @@ Depois de todo o processo de construção e constante melhoria do software, ele 
 
 # Ciclo de Vida de Software
 
-Exemplo utilizado: Sorveteria
+Exemplo utilizado: Portaria
 
 Requisitos Funcionais
-- Funcionário pode adcionar, excluir autalizar e mostrar os sabores de sorvetes existentes;
-- Cardapio pode ser visto tanto pelo Usuário quanto para o Funcionário;
-- Cliente pode criar uma conta e logar-se pelo aplicativo;
-- Planilha de pedidos para o Funcionário.
+- Porteiro (Ator) pode cadastrar novos moraddores ao condomínio e seus respectivos apartamentos;
+- Porteiro póde realizar a busca e moradores atraves do apartamento;
+- Porteiro pode realizar a busca de moradores atraves da matricula do morador;
 
 Requisitos Não Funcionais:
 - Velocidade nas respostas do sistema
-- portabilidade para diversos dispositivos
 - Interface agradavel e simples
 
 Diagrama de caso de uso:
 
-![Screenshot](sorveteria.png)</br>
+![Screenshot](portaria.png)<br>
