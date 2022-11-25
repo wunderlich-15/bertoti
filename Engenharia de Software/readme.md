@@ -32,4 +32,4 @@ Requisitos Não Funcionais:
 
 Diagrama de caso de uso:
 
-![Screenshot](Sem Título 1.png)</br>
+![Screenshot](sorveteria.png)</br>
