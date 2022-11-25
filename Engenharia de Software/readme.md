@@ -31,3 +31,8 @@ Requisitos Não Funcionais:
 Diagrama de caso de uso:
 
 ![Screenshot](portaria.png)<br>
+
+# Testes
+Testes desenvolvidos
+
+![Screenshot](testes.png)<br>
