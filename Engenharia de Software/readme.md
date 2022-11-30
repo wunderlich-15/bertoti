@@ -34,7 +34,7 @@ Diagrama de caso de uso:
 
 # Diagrama de classes
 
-![Screenshot](Diagram de classes.png)<br>
+![Screenshot](diagram.png)<br>
 
 # Testes
 Testes desenvolvidos
