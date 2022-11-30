@@ -32,6 +32,10 @@ Diagrama de caso de uso:
 
 ![Screenshot](portaria.png)<br>
 
+# Diagrama de classes
+
+![Screenshot](Diagram de classes.png)<br>
+
 # Testes
 Testes desenvolvidos
 
